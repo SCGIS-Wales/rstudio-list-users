@@ -1,0 +1,123 @@
+{
+    "results": [
+        {
+            "email": "first1.lastname1@company.com",
+            "username": "first1.lastname1@company.com",
+            "first name": "",
+            "last name": "",
+            "user role": "publisher",
+            "created time": "2020-10-291-09:57:06Z",
+            "updated_time": "2020-10-29T09:58:13Z",
+            "active_time": "2020-10-291-09:57:06Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "0b4e619a-a0d2-4fdb-981c-948a06a08877"
+        },
+        {
+            "email": "",
+            "username": "username1",
+            "first name": "",
+            "last name": "",
+            "user role": "administrator",
+            "created time": "2022-10-291-09:57:06Z",
+            "updated_time": "2022-10-29T09:53:13Z",
+            "active_time": "2022-10-291-04:57:06Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "e6c4591c-15dd-41b1-ad0d-7e553e3ca093"
+        },
+        {
+            "email": "",
+            "username": "username2",
+            "first name": "",
+            "last name": "",
+            "user role": "administrator",
+            "created time": "2022-12-16T12:58:43Z",
+            "updated_time": "2022-12-16T12:58:43Z",
+            "active_time": "2022-12-16T12:58:43Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "1392180e-4264-46cd-bbcd-1a116ae57fba"
+        },
+        {
+            "email": "",
+            "username": "username3",
+            "first name": "",
+            "last name": "",
+            "user role": "viewer",
+            "created time": "2022-10-291-09:57:06Z",
+            "updated_time": "2022-10-29T09:53:13Z",
+            "active_time": "2022-10-291-04:57:06Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "971db924-382f-4fca-9a6d-2a52fc8c355c"
+        },
+        {
+            "email": "",
+            "username": "username5",
+            "first name": "",
+            "last name": "",
+            "user role": "viewer",
+            "created time": "2022-10-291-09:57:06Z",
+            "updated_time": "2022-10-29T09:53:13Z",
+            "active_time": "2022-10-291-04:57:06Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "76f91dd9-2116-4657-860d-Obbb5fc0d057"
+        },
+        {
+            "email": "",
+            "username": "username6",
+            "first name": "",
+            "last name": "",
+            "user role": "publisher",
+            "created time": "2022-10-291-09:57:06Z",
+            "updated_time": "2022-10-29T09:53:13Z",
+            "active_time": "2022-10-291-04:57:06Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "4dc313b2-1948-48cc-8dc3-a8f712170f16"
+        },
+        {
+            "email": "",
+            "username": "username7",
+            "first name": "",
+            "last name": "",
+            "user role": "publisher",
+            "created time": "2017-01-291-09:57:06Z",
+            "updated_time": "2022-01-29T09:53:13Z",
+            "active_time": "2022-01-291-04:57:06Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "cc095235-d36e-46be-9912-94519753cdcd"
+        },
+        {
+            "email": "",
+            "username": "username4",
+            "first name": "",
+            "last name": "",
+            "user role": "viewer",
+            "created time": "2022-09-11T12:53:43Z",
+            "updated_time": "2022-09-11T12:53:43Z",
+            "active_time": "2022-09-11T12:53:43Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "280b2b73-601b-4079-9477-4588404f3f9f"
+        },
+        {
+            "email": "",
+            "username": "publisher",
+            "first name": "",
+            "last name": "",
+            "user role": "viewer",
+            "created time": "2022-02-291-09:57:06Z",
+            "updated_time": "2022-02-29T09:53:13Z",
+            "active_time": "2022-02-291-04:57:06Z",
+            "confirmed": true,
+            "locked": false,
+            "guid": "cd79e525-601c-419b-b2b5-3c955eb5adf2"
+        }
+    ],
+    "current_page": 1,
+    "total": 9
+}
