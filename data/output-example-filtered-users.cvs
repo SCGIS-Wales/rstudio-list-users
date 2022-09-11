@@ -1,0 +1,10 @@
+username,user_role,email,active_time
+first1.lastname1@company.com,publisher,first1.lastname1@company.com,2020-10-291-09:57:06Z
+username1,administrator,,2022-10-291-04:57:06Z
+username2,administrator,,2022-12-16T12:58:43Z
+username3,viewer,,2022-10-291-04:57:06Z
+username5,viewer,,2022-10-291-04:57:06Z
+username6,publisher,,2022-10-291-04:57:06Z
+username7,publisher,,2022-01-291-04:57:06Z
+username4,viewer,,2022-09-11T12:53:43Z
+username10,publisher,,2022-02-291-04:57:06Z
